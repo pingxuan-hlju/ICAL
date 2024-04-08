@@ -16,8 +16,8 @@ Interactive multi-hypergraph inferring and channelenhanced and attribute-enhanc
 | File_name                  | Data_type               | Source                                                       |
 | -------------------------- | ----------------------- | ------------------------------------------------------------ |
 | drug_drug_sim_dis.txt      | drug-drug(diease)       | [MeSH](https://www.nlm.nih.gov/mesh/meshhome.html)           |
-| Similarity_Matrix_Drugs.csv| drug-drug(chemical)     | [starBase](https://rnasysu.com/encori/)                      |
-| mat_drug_se.txt            | drug-side effect        | [LncRNADisease](https://www.cuilab.cn/lncrnadisease)         |
+| Similarity_Matrix_Drugs.csv| drug-drug(chemical)     | [CTD](https://ctdbase.org/)                                  |
+| mat_drug_se.txt            | drug-side effect        | [SIDER](http://sideeffects.embl.de/)                         |
 | se_seSmilirity.txt         | side effect-side effect | [HMDD](https://www.cuilab.cn/hmdd)                           |
 
 ## Environment
