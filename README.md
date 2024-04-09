@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Interactive multi-hypergraph inferring and channelenhanced and attribute-enhanced learning for drug-related side effect predictio”).
+Interactive multi-hypergraph inferring and channel-enhanced and attribute-enhanced learning for drug-related side effect prediction”).
 
 # File
 
