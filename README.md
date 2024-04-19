@@ -16,9 +16,9 @@ Interactive multi-hypergraph inferring and channel-enhanced and attribute-enhanc
 | File_name                  | Data_type               | Source                                                       |
 | -------------------------- | ----------------------- | ------------------------------------------------------------ |
 | drug_drug_sim_dis.txt      | drug-drug(diease)       | [Artical](https://www.nature.com/articles/s41467-017-00680-8)           |
-| Similarity_Matrix_Drugs.csv| drug-drug(chemical)     | [CTD](https://ctdbase.org/)                                  |
+| similarity_matrix_drugs.csv| drug-drug(chemical)     | [CTD](https://ctdbase.org/)                                  |
 | mat_drug_se.txt            | drug-side effect        | [SIDER](http://sideeffects.embl.de/)                         |
-| se_seSmilirity.txt         | side effect-side effect | [Artical](https://www.nature.com/articles/s41467-017-00680-8)                           |
+| se_se_Similarity.txt       | side effect-side effect | [Artical](https://www.nature.com/articles/s41467-017-00680-8)                           |
 
 ## Environment
 
